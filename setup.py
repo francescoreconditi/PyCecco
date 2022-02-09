@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Francesco Reconditi",
     author_email="francesco.reconditi@example.com",
-    description="A small example package",
+    description="Cecco's Library",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/francescoreconditi/PyCecco",
